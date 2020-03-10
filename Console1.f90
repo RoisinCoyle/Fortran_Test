@@ -19,7 +19,7 @@
     ! Variables
 
     ! Body of Console1
-    print *, 'Hello World'
+    print *, 'Hello World!'
 
     end program Console1
 
